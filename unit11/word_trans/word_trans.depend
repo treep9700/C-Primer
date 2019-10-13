@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1570845509 source:c:\users\hhe97\desktop\数据结构与算法\word_trans\main.cpp
+	<iostream>
+	"word_trans.h"
+
+1570847653 c:\users\hhe97\desktop\数据结构与算法\word_trans\word_trans.h
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<map>
+	<algorithm>
+
